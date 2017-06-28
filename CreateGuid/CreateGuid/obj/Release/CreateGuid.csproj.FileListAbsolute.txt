@@ -1,0 +1,8 @@
+C:\Users\nregenwether\Documents\Visual Studio 2015\Projects\CreateGuid\CreateGuid\bin\Release\CreateGuid.exe.config
+C:\Users\nregenwether\Documents\Visual Studio 2015\Projects\CreateGuid\CreateGuid\bin\Release\CreateGuid.exe
+C:\Users\nregenwether\Documents\Visual Studio 2015\Projects\CreateGuid\CreateGuid\bin\Release\CreateGuid.pdb
+C:\Users\nregenwether\Documents\Visual Studio 2015\Projects\CreateGuid\CreateGuid\obj\Release\CreateGuid.Form1.resources
+C:\Users\nregenwether\Documents\Visual Studio 2015\Projects\CreateGuid\CreateGuid\obj\Release\CreateGuid.Properties.Resources.resources
+C:\Users\nregenwether\Documents\Visual Studio 2015\Projects\CreateGuid\CreateGuid\obj\Release\CreateGuid.csproj.GenerateResource.Cache
+C:\Users\nregenwether\Documents\Visual Studio 2015\Projects\CreateGuid\CreateGuid\obj\Release\CreateGuid.exe
+C:\Users\nregenwether\Documents\Visual Studio 2015\Projects\CreateGuid\CreateGuid\obj\Release\CreateGuid.pdb

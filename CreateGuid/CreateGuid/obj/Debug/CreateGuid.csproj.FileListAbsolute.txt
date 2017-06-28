@@ -1,0 +1,18 @@
+C:\Users\nregenwether\Documents\Visual Studio 2015\Projects\CreateGuid\CreateGuid\bin\Debug\CreateGuid.exe.config
+C:\Users\nregenwether\Documents\Visual Studio 2015\Projects\CreateGuid\CreateGuid\bin\Debug\CreateGuid.exe
+C:\Users\nregenwether\Documents\Visual Studio 2015\Projects\CreateGuid\CreateGuid\bin\Debug\CreateGuid.pdb
+C:\Users\nregenwether\Documents\Visual Studio 2015\Projects\CreateGuid\CreateGuid\obj\Debug\CreateGuid.csprojResolveAssemblyReference.cache
+C:\Users\nregenwether\Documents\Visual Studio 2015\Projects\CreateGuid\CreateGuid\obj\Debug\CreateGuid.Form1.resources
+C:\Users\nregenwether\Documents\Visual Studio 2015\Projects\CreateGuid\CreateGuid\obj\Debug\CreateGuid.Properties.Resources.resources
+C:\Users\nregenwether\Documents\Visual Studio 2015\Projects\CreateGuid\CreateGuid\obj\Debug\CreateGuid.csproj.GenerateResource.Cache
+C:\Users\nregenwether\Documents\Visual Studio 2015\Projects\CreateGuid\CreateGuid\obj\Debug\CreateGuid.exe
+C:\Users\nregenwether\Documents\Visual Studio 2015\Projects\CreateGuid\CreateGuid\obj\Debug\CreateGuid.pdb
+C:\Project\CreateGuidVSAddOn\CreateGuid\CreateGuid\bin\Debug\CreateGuid.exe.config
+C:\Project\CreateGuidVSAddOn\CreateGuid\CreateGuid\obj\Debug\CreateGuid.exe
+C:\Project\CreateGuidVSAddOn\CreateGuid\CreateGuid\obj\Debug\CreateGuid.pdb
+C:\Project\CreateGuidVSAddOn\CreateGuid\CreateGuid\bin\Debug\CreateGuid.exe
+C:\Project\CreateGuidVSAddOn\CreateGuid\CreateGuid\bin\Debug\CreateGuid.pdb
+C:\Project\CreateGuidVSAddOn\CreateGuid\CreateGuid\obj\Debug\CreateGuid.csprojResolveAssemblyReference.cache
+C:\Project\CreateGuidVSAddOn\CreateGuid\CreateGuid\obj\Debug\CreateGuid.Form1.resources
+C:\Project\CreateGuidVSAddOn\CreateGuid\CreateGuid\obj\Debug\CreateGuid.Properties.Resources.resources
+C:\Project\CreateGuidVSAddOn\CreateGuid\CreateGuid\obj\Debug\CreateGuid.csproj.GenerateResource.Cache
